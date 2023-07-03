@@ -4,7 +4,9 @@ export const User = () => {
   return (
     <div>
       <h2>User44</h2>
-      <p>Lorem ipsum dolor</p>
+      <p>Lorem</p>
+      <p>ipsum</p>
+      <p>dolor</p>
     </div>
   );
 };
