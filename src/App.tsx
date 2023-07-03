@@ -20,6 +20,7 @@ function App() {
           Learn React
         </a>
         <div>Dev branch commit 1</div>
+        <div>Dev branch commit 2</div>
       </header>
     </div>
   );
